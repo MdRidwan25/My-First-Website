@@ -1,0 +1,26 @@
+.header{
+
+color: rgb(233, 0, 246);
+text-align: center;
+font-size: 40px;
+background-image: url("image/pizza.jpg");
+background-repeat: no-repeat;
+box-shadow: 5px 5px 5px 5px;
+}
+
+.myfirst{
+
+    border: solid 3px rgba(239, 84, 6, 0.707);
+    border-radius: 3px;
+
+
+
+}
+
+
+.mifirst2{
+
+    color: beige;
+
+
+}
