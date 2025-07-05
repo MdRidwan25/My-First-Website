@@ -1,0 +1,55 @@
+*{
+
+
+padding: 10px;
+
+
+}
+
+
+
+.alll{
+
+    text-align: center;
+font-size: 40px;
+color: rgb(222, 6, 6);
+border: darkolivegreen solid;
+border-width: 5px;
+box-shadow: 10px 10px 10px 10px  rgba(6, 203, 6, 0.277);
+border-radius: 5px;
+
+
+
+}
+
+.al{
+
+    border: 5px solid black;
+
+    margin: 50;
+  width: 900px;
+  
+ height: 600px;
+background-color: #F4F1E8;
+
+margin: auto;
+
+display: flex;
+      justify-content: center;
+
+}
+
+
+
+.ala{
+
+
+ width: 900px;
+  
+ height: 600px;
+
+
+
+}
+
+
