@@ -1,0 +1,269 @@
+body{
+
+
+display: flex;
+justify-content: center;
+
+
+
+
+
+}
+
+
+.newyear-hiro-section{
+
+background-image: url('images/Banner\ Image.png');
+
+border: 2px solid red;
+
+width: 1320px;
+height: 600px;
+
+color: aliceblue;
+font-size: 30px;
+text-align: center;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+.offer-div{
+
+height: 802px;
+width: 806px;
+border: 2px solid red;
+
+margin: 0 auto;
+text-align: center;
+padding: 20px;
+
+}
+
+.offer-div h1{
+
+color: #FF0000;
+font-size: 60px;
+font-family: sans-serif;
+}
+
+.offer-div h2{
+
+font-size: 48px;
+font-family: sans-serif;
+
+}
+
+.offer-div h6{
+
+color: #FF0000;
+font-family: sans-serif
+
+}
+
+
+.offer-div img{
+
+  width: 100%;
+
+
+}
+
+
+
+.second-hiro{
+
+  height: 600px;
+width: 1320px;
+
+
+
+margin-top: 20px;
+
+background-image: url('images/Vectorrr.png');
+
+display: flex;
+justify-content:center ;
+
+align-items: center;
+color: white;
+
+font-family: sans-serif;
+
+
+
+}
+
+.second-hiro div{
+
+padding: 50px;
+
+}
+
+.img-grup70{
+
+  height:200 ;
+width: 200;
+
+margin-left: 177px;
+
+}
+
+
+.place-section{
+
+
+background-color: #ff000013;
+
+
+
+margin-top: 3px;
+font-size: 20px;
+
+text-align: center;
+font-family: sans-serif;
+
+border: #FF0000 2px solid;
+
+border-radius: 10px;
+
+height: 482px;
+width: 1320px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+} 
+
+.place-section button{
+
+background-color: #FF0000;
+font-size: 20px;
+font-family: sans-serif;
+color: white;
+padding: 10px;
+
+border-radius: 5px;
+}
+
+.place-section div h3 span{
+
+
+color: #FF0000;
+
+
+}
+
+
+.coming-soon{
+
+width: 1320px;
+height: 463px;
+
+border: 2px red solid;
+
+margin-top: 20px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+gap: 50px;
+
+
+}
+
+
+.holidays-section{
+
+
+width:1320px;
+height: 986px;
+
+border: 2px solid #FF0000;
+
+margin-top: 20px;
+
+text-align: center;
+
+font-size: 20px;
+font-family: sans-serif;
+
+}
+
+.portfolio-section{
+
+
+
+width: 1320px;
+height: 1120px;
+
+border: #FF0000 solid 2px;
+padding: 10px;
+
+}
+.item-div{
+
+
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 10px;
+
+
+}
+
+.item-div img{
+
+
+height:450 ;
+width: 424;
+
+}
+
+.subscribe-section{
+
+
+width: 1320;
+height: 616px;
+border: 2px solid red;
+margin-top: 50px;
+background-color: #ff00002b;
+text-align: center;
+
+
+
+
+}
+
+
+.child-section form input{
+
+background-color: aliceblue;
+
+
+}
+
+
+.child-section-button{
+
+display: flex;
+justify-content: center;
+
+}
+
+.sub-bt{
+
+
+background-color: #FF0000;
+height: 50px;
+width: 100px;
+border-radius: 15px;
+
+}
+
